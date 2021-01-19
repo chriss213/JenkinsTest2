@@ -20,7 +20,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                eu.linkedbusiness.jenkins.test.JenkinsTest.Main
+                                Main
                             </mainClass>
                         </manifest>
                     </archive>
