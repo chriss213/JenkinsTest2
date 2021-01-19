@@ -50,7 +50,7 @@
   <dependency>
 	    <groupId>eu.linkedbusiness.jenkins.test</groupId>
 	    <artifactId>JenkinsTest1</artifactId>
-	    <version>0.0.3-RELEASE</version>
+	    <version>[0.0,)</version>
 	</dependency>
 	</dependencies>
 	
